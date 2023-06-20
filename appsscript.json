@@ -19,6 +19,9 @@
     "https://www.googleapis.com/auth/gmail.addons.execute",
     "https://www.googleapis.com/auth/script.locale",
     "https://www.googleapis.com/auth/script.external_request"],
+    "urlFetchWhitelist": [
+      "https://google.com/"
+    ],
     "addOns": {
     "common": {
       "name": "PKM Order Helper",

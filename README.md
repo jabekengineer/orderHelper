@@ -22,7 +22,7 @@ PandaKo Media needed a faster way to fulfill Squarespace orders.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-* [![JavaScript][JavaScript]][JavaScript-url] - The trello client is Javascript.
+* [![JavaScript][JavaScript]][JavaScript-url] - Clasp transpiles JS code to GAS.
 
 
 
@@ -36,7 +36,7 @@ PandaKo Media needed a faster way to fulfill Squarespace orders.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[ordering]: ./ordering.gif
+[ordering]: ./images/ordering.gif
 
 [solution]: ./images/sorted.gif
 

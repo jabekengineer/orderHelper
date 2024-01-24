@@ -1,9 +1,7 @@
-// jasonKey
-// 2ffdb94c-4062-4e43-a49a-bddc69240e7d
 
 function sandbox() {
     var headers = {
-      'Authorization': 'Bearer 2ffdb94c-4062-4e43-a49a-bddc69240e7d'
+      'Authorization': 'Bearer key'
     }
     var options = {
       'method': 'get',

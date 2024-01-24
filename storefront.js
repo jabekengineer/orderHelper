@@ -1,6 +1,6 @@
 function storePages(){
     var headers = {
-      'Authorization': 'Bearer d8370458-b419-4831-ab8c-765e6807cf71'
+      'Authorization': 'Bearer key'
     }
     var options = {
       'method': 'get',
@@ -18,7 +18,7 @@ function storePages(){
   
   function createProduct() {
     var headers = {
-      'Authorization': 'Bearer d8370458-b419-4831-ab8c-765e6807cf71'
+      'Authorization': 'Bearer key'
     }
     var payload = {
       'type': 'PHYSICAL',
